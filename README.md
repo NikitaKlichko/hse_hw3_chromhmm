@@ -26,11 +26,11 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 
 | | | | 
 --- | --- | --- 
-https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/emissions_10.png | https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/DND-41_10_overlap.png | https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/transitions_10.png | 
+![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/emissions_10.png) | ![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/DND-41_10_overlap.png)| ![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/transitions_10.png) | 
 
 | | | 
 --- | ---
-https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/DND-41_10_RefSeqTES_neighborhood.png | https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/DND-41_10_RefSeqTSS_neighborhood.png | 
+![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/DND-41_10_RefSeqTES_neighborhood.png) | ![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/Learn_chromhmm/DND-41_10_RefSeqTSS_neighborhood.png) | 
 
 
 
