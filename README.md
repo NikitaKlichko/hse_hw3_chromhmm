@@ -36,12 +36,7 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 
 | | | 
 --- | --- 
-
-
-| Состояние | Тип | Описание | 
---- | --- | --- 
 | ![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/imgs/1.png) |![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/imgs/2.png) | 
-
 
 
 
