@@ -44,7 +44,8 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 
 | Состояние | Тип | Описание | 
 --- | --- | --- 
-1 | Heterochromatin | - Показывает слабый сигнал на большинстве меток  - Чаще ассоциировано с laminB1lads
+1 | Heterochromatin | - Показывает слабый сигнал на большинстве меток
+---| ---|   - Чаще ассоциировано с laminB1lads
 2 | Transcribed | - Показывает слабый сигнал на большинстве меток  - Чаще ассоциировано с Genome, laminB1lads 
 3 |Heterochromatin | - Более сильный сигнал на метке H3K9me3  - Чаще ассоциировано с laminB1lads
 4 | Transcribed| - Более сильный сигнал на метке H3K36me3 - Чаще ассоциировано с RefSeqTES
