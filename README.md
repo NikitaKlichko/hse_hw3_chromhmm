@@ -44,16 +44,16 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 
 | Состояние | Тип | Описание | 
 --- | --- | --- 
-1 | Heterochromatin | <ul><li>Показывает слабый сигнал на большинстве меток. </li><li>Чаще ассоциировано с laminB1lads.</li></ul>
-2 | Transcribed | - Показывает слабый сигнал на большинстве меток  - Чаще ассоциировано с Genome, laminB1lads 
-3 |Heterochromatin | - Более сильный сигнал на метке H3K9me3  - Чаще ассоциировано с laminB1lads
-4 | Transcribed| - Более сильный сигнал на метке H3K36me3 - Чаще ассоциировано с RefSeqTES
-5 | Enhancer | - Более сильный сигнал на метках H3K36me3, H3K79me2  - Чаще ассоциировано с RefSeqGene
-6 | Transcribed | - Cильный сигнал на H3K79me2  - Чаще ассоциировано с RefSeqGene  
-7 | Promoter | - Сильный сигнал на метках H3K4me1, H3K79me2  - Чаще ассоциировано с RefSeqGene, RefSeqTES
-8 | Enhancer| - По сравнению с другими более сильный сигнал на метке H3K4me1  - Чаще всего ассоциировано с laminB1lads 
-9 | Repressed| - Сильный сигнал на метках H3K4me1, H3K27ac - Ассоциировано с laminB1lads - Не попадает на ген 
-10 | Enhancer | - Cильный сигнал на метках H3K9ac, H3K4me2, H3K4me3  - Чаще ассоциировано с CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSSK2b  
+1 | Heterochromatin | <ul><li>Показывает слабый сигнал на большинстве меток </li><li>Чаще ассоциировано с laminB1lads</li></ul>
+2 | Transcribed | <ul><li>Показывает слабый сигнал на большинстве меток </li><li>Чаще ассоциировано с Genome, laminB1lads</li></ul>
+3 |Heterochromatin | <ul><li>Более сильный сигнал на метке H3K9me3  </li><li>Чаще ассоциировано с laminB1lads</li></ul>
+4 | Transcribed| <ul><li>Более сильный сигнал на метке H3K36me3 </li><li>Чаще ассоциировано с RefSeqTES</li></ul>
+5 | Enhancer | <ul><li>Более сильный сигнал на метках H3K36me3, H3K79me2  </li><li>Чаще ассоциировано с RefSeqGene</li></ul>
+6 | Transcribed | <ul><li>Cильный сигнал на H3K79me2  </li><li>Чаще ассоциировано с RefSeqGene</li></ul>  
+7 | Promoter | <ul><li>Сильный сигнал на метках H3K4me1, H3K79me2  </li><li>Чаще ассоциировано с RefSeqGene, RefSeqTES</li></ul>
+8 | Enhancer| <ul><li>По сравнению с другими более сильный сигнал на метке H3K4me1  </li><li>Чаще всего ассоциировано с laminB1lads</li></ul> 
+9 | Repressed| <ul><li>Сильный сигнал на метках H3K4me1, H3K27ac </li><li>Ассоциировано с laminB1lads </li><li>Не попадает на ген</li></ul> 
+10 | Enhancer | <ul><li>Cильный сигнал на метках H3K9ac, H3K4me2, H3K4me3  </li><li>Чаще ассоциировано с CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSSK2b</li></ul>  
 
 
 
