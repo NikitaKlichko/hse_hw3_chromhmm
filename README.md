@@ -57,6 +57,7 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 **Код см в колабе
 
 ##*Бонус 
+
 ![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/imgs/name.png)   
 
 [файл](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/new_dense.bed) 
