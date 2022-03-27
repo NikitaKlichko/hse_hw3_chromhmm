@@ -56,9 +56,9 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 10 | Enhancer | <ul><li>Cильный сигнал на метках H3K9ac, H3K4me2, H3K4me3  </li><li>Чаще ассоциировано с CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSSK2b</li></ul>  
 
 
-**Код см в колабе  
+**Код см в колабе** 
 
-##*Бонус 
+## Бонус 
 
 ![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/imgs/name.png)   
 
