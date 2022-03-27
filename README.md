@@ -54,6 +54,13 @@ H3K9me3 | wgEncodeBroadHistoneDnd41H3k09me3AlnRep1.bam |
 8 | Enhancer| <ul><li>По сравнению с другими более сильный сигнал на метке H3K4me1  </li><li>Чаще всего ассоциировано с laminB1lads</li></ul> 
 9 | Repressed| <ul><li>Сильный сигнал на метках H3K4me1, H3K27ac </li><li>Ассоциировано с laminB1lads </li><li>Не попадает на ген</li></ul> 
 10 | Enhancer | <ul><li>Cильный сигнал на метках H3K9ac, H3K4me2, H3K4me3  </li><li>Чаще ассоциировано с CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSSK2b</li></ul>  
+**Код см в колабе
+
+##*Бонус 
+![](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/imgs/name.png)   
+
+[файл](https://github.com/NikitaKlichko/hse_hw3_chromhmm/blob/main/new_dense.bed) 
+
 
 
 
